@@ -1,2 +1,3 @@
 # odin1n
-Odin Student1
+My firs Odin Repo
+Hello Odin
